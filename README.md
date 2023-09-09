@@ -4,7 +4,7 @@ Quick step-by-step tutorial on how to create the sample default angular app depl
 
 The result of following these guided steps will be that your sample angular site is visible on GitHub like the screen capture shown below (Example: https://kathleenwest.github.io/sample-angular-app/):
 
-![Screenshot of application deployed and running.](demo.JPG)
+![Screenshot of application deployed and running.](demo.jpg)
 
 ## Step 1 - Create Angular App
 
