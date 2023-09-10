@@ -16,7 +16,7 @@ Open a terminal window, create a new angular app, then navigate to the app root 
 
 Open the file _src/index.html_ and add the _sample-angular-app_ for base href
 
-`<base href="/sample-angular-app/">`
+`<base href="/sample-angular-app">`
 
 ## Step 3 - Create Local Git Repo for Folder
 
